@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="88955" started-at="2021-04-02T16:13:04 IST" finished-at="2021-04-02T16:14:33 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="88955" started-at="2021-04-02T16:13:04 IST" finished-at="2021-04-02T16:14:33 IST">
+      <class name="com.flete.testcases.TC002">
+        <test-method status="PASS" signature="tc002(java.lang.String)[pri:0, instance:com.flete.testcases.TC002@51cdd8a]" name="tc002" duration-ms="65294" started-at="2021-04-02T16:13:28 IST" finished-at="2021-04-02T16:14:33 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc002 -->
+      </class> <!-- com.flete.testcases.TC002 -->
+      <class name="com.flete.testcases.TC001">
+        <test-method status="PASS" signature="tc001(java.lang.String)[pri:0, instance:com.flete.testcases.TC001@7f13d6e]" name="tc001" duration-ms="23611" started-at="2021-04-02T16:13:04 IST" finished-at="2021-04-02T16:13:28 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+      </class> <!-- com.flete.testcases.TC001 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
